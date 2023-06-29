@@ -12,6 +12,6 @@ public class controller {
     @PostMapping("/signup")
     public void sign_Up(@RequestBody User user)
     {
-
+       
     }
 }
